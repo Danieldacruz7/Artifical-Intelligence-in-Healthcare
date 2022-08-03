@@ -9,8 +9,15 @@ This collection is part of a specialization on Coursera. Each course focuses on 
 
     - ### [Natural Language Entity Extraction: ](./Artifical%20Intelligence%20in%20Treatment/Week%202/Natural%20Language%20Entity%20Extraction.ipynb)
 
-    - ### [Model INterpretation Methods: ](./Artifical%20Intelligence%20in%20Treatment/Week%203/Model%20Interpretation%20Methods.ipynb)
+    - ### [Model Interpretation Methods: ](./Artifical%20Intelligence%20in%20Treatment/Week%203/Model%20Interpretation%20Methods.ipynb)
 
 ## 2. [Artificial Intelligence in Diagnosis](./Artificial%20Intelligence%20in%20Diagnosis)
+
+    - ### [Chest X-Ray Medical Diagnosis with Deep Learning](./Artificial%20Intelligence%20in%20Diagnosis/Week%201/Chest%20X-Ray%20Medical%20Diagnosis%20with%20Deep%20Learning.ipynb)
+
+    - ### [Evaluation of Diagnostic Models](./Artificial%20Intelligence%20in%20Diagnosis/Week%202/Evaluation%20of%20Diagnostic%20Models.ipynb)
+
+     - ### [Brain Tumor Segmentation for Magnetic Resonance Imaging](./Artificial%20Intelligence%20in%20Diagnosis/Week%203/Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging.ipynb)
+
 
 ## 3. [Risk Analysis in Healthcare](./Risk%20Analysis%20in%20Healthcare) 
